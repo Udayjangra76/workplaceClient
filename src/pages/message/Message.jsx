@@ -51,7 +51,7 @@ const Message = () => {
             {data.map((m) => (
               <div className={m.userId === currentUser._id ? "owner item" : "item"} key={m._id}>
                 <img
-                  src="https://images.pexels.com/photos/270408/pexels-photo-270408.jpeg?auto=compress&cs=tinysrgb&w=1600"
+                  src="https://www.clipartmax.com/middle/m2H7H7G6i8b1Z5b1_businessperson-animation-others-buyer-cartoon/"
                   alt=""
                 />
                 <p>{m.desc}</p>

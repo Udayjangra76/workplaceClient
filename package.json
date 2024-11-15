@@ -27,5 +27,5 @@
     "eslint": "^8.36.0",
     "eslint-plugin-react": "^7.32.2",
     "vite": "^4.0.0"
-  },"proxy":"https://workplace-hp8z.onrender.com/api"
+  },"proxy":"https://workplace-fawn.vercel.app/api"
 }

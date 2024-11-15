@@ -2,7 +2,7 @@
 import axios from "axios";
 
 const newRequest = axios.create({
-  baseURL: "https://workplace-hp8z.onrender.com/api/",
+  baseURL: "https://workplace-fawn.vercel.app/api/",
   withCredentials: true,
 });
 
